@@ -6,10 +6,6 @@
 
 **⚠ This datapack will most likely not update to future versions. ⚠**
 
-</details>
-
-# Watch the YouTube video to learn more about the items!
-
 **🌐This video is part of the first DATAPACK TENNIS competition hosted by SwitchedCube!**
 
 **🏓[Subscribe](https://youtube.com/switchedcube) to their channel to see more datapacks!**
@@ -17,7 +13,6 @@
 This Datapack adds 12 powers based on ﻿MINECRAFT MOBS to Minecraft! All of them have their own abilities!
 
 Watch the YouTube video to learn more about the items!
-
 
 # Commands
 
@@ -27,16 +22,9 @@ Watch the YouTube video to learn more about the items!
 
 **_/function dpt1-general:menu_** - menu to enable/disable item cooldowns
 
-<details>
-<summary>Spoiler</summary>
-
-
-=====License=====================================================================================
+=====License==========================================================
 
 Mob Powers © 2024 by [​SwitchedCube/Devscube] is licensed under
 
 [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) An exception is made for video content, which can be monetized. However,
 video creators must give appropriate credit by leaving a link to this page and/or the DevsCube discord in the video description.
-
-
-</details>
