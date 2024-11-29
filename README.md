@@ -1,7 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HOgeDAxDEYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<details>
-<summary>Spoiler</summary>
-
 **⚠ This Datapack requires the use of a Resource Pack, which is available as a separate download. Please make sure you have activated it when playing with the pack. ⚠**
 
 **⚠ Only tested in 1.20.4 and 1.20.5/1.20.6. Other versions might make the pack break! ⚠**
